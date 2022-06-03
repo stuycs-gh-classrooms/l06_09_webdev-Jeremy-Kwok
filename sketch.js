@@ -27,7 +27,7 @@ function draw() {
     }
     center_x = 50;
      lefteye_x = 35;
-     righteye_x = 40;
+     righteye_x = 65;
     center_y += 100;
      lefteye_y += 100;
      righteye_y += 100;
