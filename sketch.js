@@ -23,6 +23,8 @@ function draw() {
       
       center_x += 100;
     }
+    center_x = 50;
+    center_y += 100;
   }
 }
 
