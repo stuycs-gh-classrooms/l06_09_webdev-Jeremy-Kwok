@@ -22,9 +22,15 @@ function draw() {
       triangle(center_x-5, center_y-5, center_x+5, center_y-5, center_x, center_y+20);
       
       center_x += 100;
+      lefteye_x += 100;
+      righteye_x += 100;
     }
     center_x = 50;
+     lefteye_x = 35;
+     righteye_x = 40;
     center_y += 100;
+     lefteye_y += 100;
+     righteye_y += 100;
   }
 }
 
